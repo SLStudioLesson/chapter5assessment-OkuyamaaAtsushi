@@ -182,7 +182,7 @@ public class TaskUI {
                         inputDeleteInformation();
                         break;
                     case "3":
-                        displayMenu();
+                        System.out.println("メインメニューに戻ります。");
                         flg = false;
                         break;
                     default:
