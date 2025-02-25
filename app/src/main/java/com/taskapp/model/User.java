@@ -57,5 +57,10 @@ public class User {
 		return true;
 	}
 
+    public static User parse(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'parse'");
+    }
+
     
 }
